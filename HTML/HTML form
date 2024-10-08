@@ -1,16 +1,16 @@
 <html>
 	<head>	
-		<title>FORM PRACTICE</title>
+		<title>Dua Jessani form</title>
 	</head>
 	<body>
 		<form method="get">
 			<table border="2px" align="center">
 				<tr>
-					<th>User-Name</th>
+					<th>Your-Name</th>
 					<td><input type="text" placeholder="Enter your name" size="30" maxlength="20" name="uname"/></td>
 				</tr>
 				<tr>
-					<th>Email</th>
+					<th>Your-Email</th>
 					<td><input type="email" placeholder="Enter your email" size="30" maxlength="30" name="email"/></td>
 				</tr>
 				<tr>
