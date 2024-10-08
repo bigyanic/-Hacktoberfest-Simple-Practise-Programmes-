@@ -1,6 +1,9 @@
-number_1 = int(input("Enter 1st number: "))
-number_2 = int(input("Enter 2nd number: "))
+def sum():
+    num1 = int(input("Enter First Number"))
+    num2 = int(input("Enter Second Number"))
+    sum = num1 + num2
+    return sum
 
-sum = number_1 + number_2
+addition = sum()
+print(addition)
 
-print(sum)
