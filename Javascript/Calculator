@@ -20,7 +20,7 @@ function calculate_this() {
 <div class="container">
 <div class="d-flex flex-column justify-content-center align-items-center">
 	<h1 class="text-center">CALCULATOR</h1>
-	<input type="text" id="numbers" value="" placeholder="INPUT NUMBERS HERE" class="w-100 text-center py-1 mb-3">
+	<input type="text" id="numbers" value="" placeholder="INPUT YOUR NUMBERS HERE" class="w-100 text-center py-1 mb-3">
 	<input type=button value="Calculate" onClick="calculate_this()" class="w-50 py-2"><br>
 	<p class="text-center">RESULT <span id="results">(CLICK "CALCULATE")</span></p>
 </div>
